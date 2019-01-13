@@ -4,7 +4,7 @@
 
 Submitted by: **Macklin Zhong**
 
-Time spent: **0.5**hours spent in total
+Time spent: **0.5** hours spent in total
 
 ## User Stories
 
